@@ -1,7 +1,7 @@
 #include "student_output.h"
 #include "diagnostics.h"
 #include <iostream>
-void generate_diagnostic_report() {
+void generate_diagnostics_report() {
 	std::cout << "=== SYSTEM STATUS ==="<< std::endl;
 	std::cout << "Engineer: JakubJedrzejczak" << std::endl;
 	std::cout << "Branch: " << get_branch_name() << std::endl;
