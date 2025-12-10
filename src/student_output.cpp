@@ -1,5 +1,5 @@
 #include "student_output.h"
-
+#include "diagnostics.h"
 #include <iostream>
 void generate_diagnostic_report() {
 	std::cout << "=== SYSTEM STATUS ==="<< std::endl;
