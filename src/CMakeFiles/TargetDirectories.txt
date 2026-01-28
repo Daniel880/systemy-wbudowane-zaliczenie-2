@@ -1,0 +1,4 @@
+/root/zaliczenie2/systemy-wbudowane-zaliczenie-2/src/CMakeFiles/diagnostics_lib.dir
+/root/zaliczenie2/systemy-wbudowane-zaliczenie-2/src/CMakeFiles/zaliczenie2.dir
+/root/zaliczenie2/systemy-wbudowane-zaliczenie-2/src/CMakeFiles/edit_cache.dir
+/root/zaliczenie2/systemy-wbudowane-zaliczenie-2/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/root/zaliczenie2/systemy-wbudowane-zaliczenie-2/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

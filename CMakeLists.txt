@@ -8,6 +8,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 # Build diagnostics library
 add_library(diagnostics_lib STATIC
     src/diagnostics.cpp
+    src/student_output.cpp
 )
 
 target_include_directories(diagnostics_lib PUBLIC include)
