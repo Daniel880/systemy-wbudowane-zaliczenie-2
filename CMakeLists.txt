@@ -14,8 +14,9 @@ target_include_directories(diagnostics_lib PUBLIC include)
 
 # Build main executable
 add_executable(zaliczenie2
-    src/main.cpp
+   	src/main.cpp
 	src/student_output.cpp
+
 )
 
 target_include_directories(zaliczenie2 PRIVATE include)
