@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/zaliczenie2.dir/link.d CMakeFiles/zaliczenie2.dir/src/main.cpp.o CMakeFiles/zaliczenie2.dir/src/student_output.cpp.o -o zaliczenie2  libdiagnostics_lib.a

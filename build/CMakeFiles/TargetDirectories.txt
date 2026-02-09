@@ -1,0 +1,4 @@
+/home/tomek/systemy-wbudowane-zaliczenie-2/build/CMakeFiles/diagnostics_lib.dir
+/home/tomek/systemy-wbudowane-zaliczenie-2/build/CMakeFiles/zaliczenie2.dir
+/home/tomek/systemy-wbudowane-zaliczenie-2/build/CMakeFiles/edit_cache.dir
+/home/tomek/systemy-wbudowane-zaliczenie-2/build/CMakeFiles/rebuild_cache.dir
