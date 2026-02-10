@@ -17,7 +17,7 @@ branch.erase(0, prefix.length());
 
 cout<<"=== SYSTEM STATUS ==="<<endl;
 cout<<"Engineer: "<<branch<<endl;
-cout<<"Branch :"<<get_branch_name()<<endl;
+cout<<"Branch: "<<get_branch_name()<<endl;
 cout<<"Uptime: "<<get_system_uptime()<<endl;
 cout<<"Running Processes: "<<get_running_processes()<<endl;
 }
