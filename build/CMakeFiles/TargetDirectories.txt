@@ -1,0 +1,4 @@
+/home/michal/systemy-wbudowane-zaliczenie-2/build/CMakeFiles/system_info_lib.dir
+/home/michal/systemy-wbudowane-zaliczenie-2/build/CMakeFiles/zaliczenie2.dir
+/home/michal/systemy-wbudowane-zaliczenie-2/build/CMakeFiles/edit_cache.dir
+/home/michal/systemy-wbudowane-zaliczenie-2/build/CMakeFiles/rebuild_cache.dir

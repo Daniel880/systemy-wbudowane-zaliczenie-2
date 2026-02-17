@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsystem_info_lib.a CMakeFiles/system_info_lib.dir/src/system_info.cpp.o CMakeFiles/system_info_lib.dir/src/diagnostics.cpp.o
+/usr/bin/ranlib libsystem_info_lib.a

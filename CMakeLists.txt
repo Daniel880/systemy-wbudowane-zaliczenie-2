@@ -16,6 +16,7 @@ target_include_directories(system_info_lib PUBLIC include)
 # Build main executable
 add_executable(zaliczenie2
     src/main.cpp
+    src/diagnostics.cpp    
     src/student_output.cpp
 )
 
